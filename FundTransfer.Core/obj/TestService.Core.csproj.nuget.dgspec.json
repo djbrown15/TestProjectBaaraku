@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\FundTransfer.Core\\TestService.Core.csproj": {}
+    "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\TestProjectBaaraku\\FundTransfer.Core\\TestService.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\FundTransfer.Core\\TestService.Core.csproj": {
+    "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\TestProjectBaaraku\\FundTransfer.Core\\TestService.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\FundTransfer.Core\\TestService.Core.csproj",
+        "projectUniqueName": "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\TestProjectBaaraku\\FundTransfer.Core\\TestService.Core.csproj",
         "projectName": "TestService.Core",
-        "projectPath": "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\FundTransfer.Core\\TestService.Core.csproj",
+        "projectPath": "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\TestProjectBaaraku\\FundTransfer.Core\\TestService.Core.csproj",
         "packagesPath": "C:\\Users\\DJacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\FundTransfer.Core\\obj\\",
+        "outputPath": "C:\\Users\\DJacob\\Downloads\\FundTransferAPI-master\\FundTransferAPI-master\\TestService\\TestProjectBaaraku\\FundTransfer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DJacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
