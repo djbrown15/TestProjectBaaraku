@@ -1,0 +1,15 @@
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\bin\Debug\net5.0\TestService.Core.deps.json
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\bin\Debug\net5.0\TestService.Core.runtimeconfig.json
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\bin\Debug\net5.0\TestService.Core.runtimeconfig.dev.json
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\bin\Debug\net5.0\TestService.Core.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\bin\Debug\net5.0\ref\TestService.Core.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\bin\Debug\net5.0\TestService.Core.pdb
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.csproj.AssemblyReference.cache
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.AssemblyInfoInputs.cache
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.AssemblyInfo.cs
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.csproj.CoreCompileInputs.cache
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\ref\TestService.Core.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.pdb
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Core\obj\Debug\net5.0\TestService.Core.genruntimeconfig.cache

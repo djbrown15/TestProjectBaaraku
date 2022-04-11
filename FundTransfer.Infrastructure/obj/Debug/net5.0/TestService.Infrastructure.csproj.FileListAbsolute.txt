@@ -1,0 +1,15 @@
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\bin\Debug\net5.0\TestService.Infrastructure.deps.json
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\bin\Debug\net5.0\TestService.Infrastructure.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\bin\Debug\net5.0\ref\TestService.Infrastructure.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\bin\Debug\net5.0\TestService.Infrastructure.pdb
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\bin\Debug\net5.0\TestService.Core.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\bin\Debug\net5.0\TestService.Core.pdb
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.AssemblyInfo.cs
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.csproj.CopyComplete
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\ref\TestService.Infrastructure.dll
+C:\Users\DJacob\Downloads\FundTransferAPI-master\FundTransferAPI-master\FundTransfer.Infrastructure\obj\Debug\net5.0\TestService.Infrastructure.pdb
